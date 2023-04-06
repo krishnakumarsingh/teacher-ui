@@ -1,3 +1,48 @@
 {
-  "teacher-compensation": []
+  "teacher-compensation": [
+    {
+      "id": "lmpy8vysmk",
+      "title": "Class 12th",
+      "startRange": "2023-04-04",
+      "time": "01:00 AM",
+      "type": "Mathmatics",
+      "sessionName": "123",
+      "sessionTime": "30",
+      "status": "checked",
+      "costPerHour": 200
+    },
+    {
+      "id": "lmpy8vysmk",
+      "title": "Class 12th",
+      "startRange": "2023-04-01",
+      "time": "01:00 AM",
+      "type": "Mathmatics",
+      "sessionName": "123",
+      "sessionTime": "30",
+      "status": "skiped",
+      "costPerHour": 250
+    },
+    {
+      "id": "lmpy8vysmk",
+      "title": "Class 10th",
+      "startRange": "2023-04-23",
+      "time": "01:00 PM",
+      "type": "Science",
+      "sessionName": "123",
+      "sessionTime": "60",
+      "status": "",
+      "costPerHour": 300
+    },
+    {
+      "id": "lmpy8vysmk",
+      "title": "Class 10th",
+      "startRange": "2023-04-25",
+      "time": "01:00 PM",
+      "type": "Science",
+      "sessionName": "123",
+      "sessionTime": "60",
+      "status": "",
+      "costPerHour": 250
+    }
+  ]
 }
